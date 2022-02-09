@@ -1,4 +1,5 @@
-# Describing our prototype
+# Low-Fidelity Prototype
+## Our Research Report
 We initially set out to create a messaging platform that prioritized meeting new people and having meaningful conversations.
 We wanted to create small discussion groups organized around shared topics of interest in entertainment to allow users to build their network organically.
 With advice from our instructor, Amy, we decided to narrow our focus on specific areas of entertainment. 
