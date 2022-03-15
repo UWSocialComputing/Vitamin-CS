@@ -9,6 +9,8 @@ Here's how someone might use it:
 2. In your newly formed group, schedule a day of the week and an episode to watch up to together.
 3. Discuss your thoughts and reactions to that week's watching! Don't worry about spoilers, we automatically block potentially risky messages.
 
+Already have people to talk about your favorite shows with? Perfect--you can still use *Look Club* and invite them to your group!
+
 ### Want to see it in action? Check out our commercial!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5adIyUlV5FY" frameborder="0" allowfullscreen></iframe>
@@ -18,7 +20,7 @@ Here's how someone might use it:
 # Meet the Team
 ### William Castro
 
-Front end guy #1
+Frontend Engineer
 
 ![William](/Vitamin-CS/images/William.png)
 
@@ -26,7 +28,7 @@ Front end guy #1
 
 ### Elijah Greisz
 
-Back end guy #1
+Backend Engineer
 
 ![Elijah](/Vitamin-CS/images/Elijah.png)
 
@@ -34,7 +36,7 @@ Back end guy #1
 
 ### Shaurya Jain
 
-Back end guy #2
+Backend Engineer
 
 ![Shaurya](/Vitamin-CS/images/Shaurya.png)
 
@@ -44,7 +46,7 @@ Back end guy #2
 
 ### Logan Wang
 
-Front end guy #2
+Frontend Engineer
 
 ![Logan](/Vitamin-CS/images/Logan.png)
 
