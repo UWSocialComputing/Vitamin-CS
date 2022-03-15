@@ -1,6 +1,6 @@
 # Digital Prototype
 
-Here, we present Look Club: a social platform that allows users to watch TV shows asynchronously on a schedule and chat about them with others. This is the result of a long, iterative design process, so let’s take a step back and look at how we got here.
+Here, we present *Look Club*: a social platform that allows users to watch TV shows asynchronously on a schedule and chat about them with others. This is the result of a long, iterative design process, so let’s take a step back and look at how we got here.
 
 From the beginning, we knew that we wanted to create a platform that facilitated the creation of new bonds between users—particularly as COVID-19 has made online connections all the more important. Focusing on entertainment, we found existing social spaces impersonal to talk in and unlikely to spark such connections. After surveying users, it was evident we weren’t alone: people like to talk about entertainment in small groups and there currently isn’t a platform that facilitates this while still letting you easily meet new people.
 
@@ -16,29 +16,31 @@ As is the inevitable fate of all cool and ambitious projects, we had to do a goo
 
 To tie all of these pieces together, we used what is known as the MERN stack: a NodeJS + ExpressJS backend, a React frontend, and a MongoDB database. Each part was supplemented with a connection to Stream to enable chat functionality. Check out the project here: https://github.com/UWSocialComputing/Vitamin-CS-Project 
 
+## Tour of Look Club
+
 Let us take a look at some of the pieces of Look Club.
 
-![Image of login screen](g7-image1.png)
+![Image of login screen](./g7-images/g7-image1.png)
 
 This is our Login Page, allowing for users to log into existing accounts or create new ones, complete with cookie functionality to save their sessions between website visits.
 
-![Image of home screen with messaging](g7-image2.png)
+![Image of home screen with messaging](./g7-images/g7-image2.png)
 
 This is the main view of the website where the user’s groups are laid out and group specific messages are shown. It includes the ability to send messages, emojis, media like files or gifs, and reacting to other group members’ messages.  
 
-![Image of screen to create a group](g7-image3.png)
+![Image of screen to create a group](./g7-images/g7-image3.png)
 
 This is where users can create two different kinds of groups. One is geared to finding new people, which means that they will be matched to other users looking for a similar show to watch and watch frequency. Their selection remains pending until at least 2 other pending group requests are found that are similar enough to be matched. The other option is to create a bare bones, empty group such that friends can be invited using our invitation system.
 
-![Image of screen to invite others](g7-image4.png)
+![Image of screen to invite others](./g7-images/g7-image4.png)
 
 This is the invitation popup from the ‘Invite Friends’ button on the group chat page. This is a custom invitation link that allows users to log into their account on LookClub and be automatically joined with the group that they were invited to.
 
-![Image of screen to set watch schedule](g7-image5.png)
+![Image of screen to set watch schedule](./g7-images/g7-image5.png)
 
 This is the schedule screen, where users can set recurring dates for watch milestones, set to repeat on whatever day of the week that they choose. This leads to the spoiler system, blocking the chat from view on the milestone date until the user gives confirmation that they are caught up, in order to avoid chat spoilers. 
 
-![Image of screen with spoiler shield](g7-image6.png)
+![Image of screen with spoiler shield](./g7-images/g7-image6.png)
 
 In this case, this group is watching Game of Thrones and in this example, they were meant to watch up to episode 5 by the 7th of March, and it is a few days later. They are presented with this ‘Spoiler Shield’ until they click the button to confirm that they are caught up.
 
