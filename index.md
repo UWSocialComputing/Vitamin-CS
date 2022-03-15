@@ -2,7 +2,7 @@
 
 # Look Club
 
-**Look Club** is a social platform that allows users to watch TV shows asynchronously on a schedule and chat about them with others.
+**Look Club** is a social platform that allows users to watch TV shows asynchronously on a schedule and chat about them with others. You can watch **new shows** while making **new friends**.
 
 Here's how someone might use it:
 1. Specify what you want to watch, and how often. We'll match you with others who want to do the same!
