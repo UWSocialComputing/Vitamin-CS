@@ -13,7 +13,7 @@ Discuss your thoughts and reactions to that week's watching! Don't worry about s
 
 ### Check out our commercial!
 
-[![Commercial thumbnail](http://img.youtube.com/vi/5adIyUlV5FY/0.jpg)](http://www.youtube.com/watch?v=5adIyUlV5FY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5adIyUlV5FY" frameborder="0" allowfullscreen></iframe>
 
 ### Check out our code repository [here!](https://github.com/UWSocialComputing/Vitamin-CS-Project)
 
