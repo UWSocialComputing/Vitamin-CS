@@ -12,9 +12,12 @@ Other functionality that is a part of our MVP was faked or omitted for now. This
 ### Screenshots
 ![Image of Sign In Page](/Vitamin-CS/images/g6/image1.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }![Image of Create Account Page](/Vitamin-CS/images/g6/image2.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }
 
+
 ![Image of General Chat Messaging Screen](/Vitamin-CS/images/g6/image3.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }![Image of Setting Show Being Watched](/Vitamin-CS/images/g6/image4.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }
 
+
 ![Image of Changing Watch Schedule For Group](/Vitamin-CS/images/g6/image5.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }![Image of Setting the Group Name](/Vitamin-CS/images/g6/image6.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }
+
 
 
 ### Findings from the user testing sessions
