@@ -51,3 +51,8 @@ Frontend Engineer
 ![Logan](/Vitamin-CS/images/Logan.png)
 
 [LinkedIn](https://www.linkedin.com/in/loganshozowang/)
+
+# Our Development Process
+Look Club was built as a part of [UW's Social Computing Capstone](https://social.cs.washington.edu/cse481social/). Make sure to check out the other projects made in the course!
+
+We documented our entire process on this website through blog posts. We started with doing [user research](/Vitamin-CS/2022/01/20/research-post.html) to identify needs within our problem space, [pitched our initial idea](/Vitamin-CS/2022/01/25/initial-pitch.html) of what we were doing, made a [low fidelity prototype](/Vitamin-CS/2022/02/03/low-fidelity-prototype.html) to test with users, designed our [project architecture](/Vitamin-CS/2022/02/10/Code-Design-And-Specification.html) based on identified requirements, [pitched the more concrete version](/Vitamin-CS/2022/02/15/advanced-pitch.html) of *Look Club*, tested a [medium fidelity prototype](/Vitamin-CS/2022/02/24/user-testing.html) with users, and ended up with our [final prototype](/Vitamin-CS/2022/03/03/digital-prototype.html). Check out our posts for each of these to learn more about our process and how *Look Club* evolved over the ~10 weeks that we worked on it!
