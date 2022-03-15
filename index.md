@@ -17,13 +17,13 @@ Discuss your thoughts and reactions to that week's watching! Don't worry about s
 
 # Meet the Team
 ### William Castro
-![William](/Vitamin-CS/images/William.png)
+![William](/Vitamin-CS/images/william.png)
 
 ### Elijah Greisz
-![Elijah](/Vitamin-CS/images/Elijah.png)
+![Elijah](/Vitamin-CS/images/elijah.png)
 
 ### Shaurya Jain
-![Shaurya](/Vitamin-CS/images/Shaurya.png)
+![Shaurya](/Vitamin-CS/images/shaurya.png)
 
 ### Logan Wang
-![Logan](/Vitamin-CS/images/Logan.png)
+![Logan](/Vitamin-CS/images/logan.png)
