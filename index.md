@@ -1,15 +1,13 @@
-# Look Club
-
 ![Look Club Banner](/Vitamin-CS/images/Banner.png)
 
-Look club is a social platform that allows users to watch TV shows asynchronously on a schedule and chat about them with others. Here's how it works:
+# Look Club
 
-### STEP 1
-Specify what you want to watch, and how often. We'll match you with others who want to do the same!
-### STEP 2
-In your newly formed group, schedule a day of the week and an episode to watch up to together.
-### STEP 3
-Discuss your thoughts and reactions to that week's watching! Don't worry about spoilers, we automatically block potentially risky messages.
+**Look Club** is a social platform that allows users to watch TV shows asynchronously on a schedule and chat about them with others.
+
+Here's how someone might use it:
+1. Specify what you want to watch, and how often. We'll match you with others who want to do the same!
+2. In your newly formed group, schedule a day of the week and an episode to watch up to together.
+3. Discuss your thoughts and reactions to that week's watching! Don't worry about spoilers, we automatically block potentially risky messages.
 
 ### Want to see it in action? Check out our commercial!
 
