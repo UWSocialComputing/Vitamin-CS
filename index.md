@@ -11,9 +11,11 @@ In your newly formed group, schedule a day of the week and an episode to watch u
 ### STEP 3
 Discuss your thoughts and reactions to that week's watching! Don't worry about spoilers, we automatically block potentially risky messages.
 
-### [Look Club Commercial](https://www.youtube.com/watch?v=5adIyUlV5FY)
+### Check out our commercial!
 
-### [Final Prototype](https://github.com/UWSocialComputing/Vitamin-CS-Project)
+[![Commercial thumbnail](http://img.youtube.com/vi/5adIyUlV5FY/0.jpg)](http://www.youtube.com/watch?v=5adIyUlV5FY)
+
+### Check out our code repository [here!](https://github.com/UWSocialComputing/Vitamin-CS-Project)
 
 # Meet the Team
 ### William Castro
