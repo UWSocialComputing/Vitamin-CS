@@ -57,13 +57,13 @@ TV Show Watcher wants new friends to watch a show with.
 ##### Flow Two: 
 Group sets consistent watch schedule, avoids spoilers on episode watch milestones, and adjusts the watch schedule under consensus when they can’t make a milestone.
 
-![screen1](/Vitamin-CS/images/G4/Flow1_G4.png)
-![screen2](/Vitamin-CS/images/G4/Flow2_G4.png)
+![Flow1](/Vitamin-CS/images/G4/Flow1_G4.png)
+![Flow2](/Vitamin-CS/images/G4/Flow2_G4.png)
 
 ## Architectural Design
 The design of our system can be broken into four subcomponents: the React frontend, the NodeJS and Express backend web server, our MongoDB database, and the messaging technology. We chose React for our frontend to make our design work easier, since our website is simple with key components that get updated with new information over time. React is a great way to model the flow of this information, and it is a language that everyone in our group has experience with. We chose NodeJS for our backend due to familiarity with it, as well as simplifying our code base to be majority JavaScript. Also, its integration with MongoDB is notably simple, which is important since MongoDB’s use of NoSQL allows the database to support arrays in table entries. This along with simple interaction with Express on our backend helps streamline our technical stack.
 
-![screen3](/Vitamin-CS/images/G4/Architecture_Design_G4.png)
+![Design](/Vitamin-CS/images/G4/Architecture_Design_G4.png)
 
 This model relates each of these four pieces of our system. At the core of our application is the ability to communicate to others, and this messaging is abstracted away by Stream. Because it stores all of the data relating to messaging, the frontend components interact directly with Stream and do not need to pass through the backend when sending and receiving messages. However, we need the frontend to authenticate with Stream as a specific user, which requires a user token. This will be stored within our own database and provided to the frontend when a user logs in and is authenticated with our system, allowing them to begin messaging. We also need the functionality for a user to put in a request for a new group, creating what we call a “pending request”. Once enough pending requests are made to form a new group, we will create a new group with those members assigned on the backend. Additionally, we want to keep track of groups to store some additional information beyond what is stored by Stream, such as the current show being watched, so we integrated this into the model. We also want to curate the list of shows to begin with, so we plan to have a table that keeps track of those and an endpoint to fetch those when a user is browsing.
 ## How does this enable our storyboard and requirements?
