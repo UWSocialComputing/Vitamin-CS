@@ -17,13 +17,35 @@ Discuss your thoughts and reactions to that week's watching! Don't worry about s
 
 # Meet the Team
 ### William Castro
-![William](/Vitamin-CS/images/william.png)
+
+Front end guy #1
+
+![William](/Vitamin-CS/images/William.png)
+
+[LinkedIn](https://www.linkedin.com/in/williamkcastro/)
 
 ### Elijah Greisz
-![Elijah](/Vitamin-CS/images/elijah.png)
+
+Back end guy #1
+
+![Elijah](/Vitamin-CS/images/Elijah.png)
+
+[LinkedIn](https://www.linkedin.com/in/williamkcastro/)
 
 ### Shaurya Jain
-![Shaurya](/Vitamin-CS/images/shaurya.png)
+
+Back end guy #2
+
+![Shaurya](/Vitamin-CS/images/Shaurya.png)
+
+[LinkedIn](https://www.linkedin.com/in/williamkcastro/)
+
+"Give me 3 days worth of food and I'll get it done."
 
 ### Logan Wang
-![Logan](/Vitamin-CS/images/logan.png)
+
+Front end guy #2
+
+![Logan](/Vitamin-CS/images/Logan.png)
+
+[LinkedIn](https://www.linkedin.com/in/williamkcastro/)
