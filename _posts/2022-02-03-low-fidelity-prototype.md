@@ -6,11 +6,11 @@ The components of our prototype included logging into an account and creating a 
 The prototype implements all features and components to some extent using the “wizardry” or Figma. This allowed us to get great feedback from the testers before we set out to structure and create our application.
 
 ### Images from out low-fidelity prototype:
-![screen1](image1.png)
-![screen2](image2.png)
-![screen3](image3.png)
-![screen4](image4.png)
-![screen5](image5.png)
+![screen1](/Vitamin-CS/images/g3/g3-image1.png)
+![screen2](/Vitamin-CS/images/g3/g3-image2.png)
+![screen3](/Vitamin-CS/images/g3/g3-image3.png)
+![screen4](/Vitamin-CS/images/g3/g3-image4.png)
+![screen5](/Vitamin-CS/images/g3/g3-image5.png)
 
 ## Findings
 The goal of this prototyping was to gain an understanding of how our testers want to use Look Club and how the current design facilitates this need. In particular, we used the prototype to gauge interest in the various features that we have included. While we love to see how multiple real users interact, this wasn’t possible to compress the nature of long-term TV show watching into a short period of time. Here are some of our major findings: 
