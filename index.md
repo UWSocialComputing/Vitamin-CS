@@ -18,7 +18,7 @@ Already have people to talk about your favorite shows with? Perfect--you can sti
 ### Or even try it out yourself! Check out our code repository [here!](https://github.com/UWSocialComputing/Vitamin-CS-Project)
 
 # Meet the Team
-### William Castro
+### William Castro (he/him)
 
 Frontend Engineer
 
@@ -26,7 +26,7 @@ Frontend Engineer
 
 [LinkedIn](https://www.linkedin.com/in/williamkcastro/)
 
-### Elijah Greisz
+### Elijah Greisz (he/him)
 
 Backend Engineer
 
@@ -34,7 +34,7 @@ Backend Engineer
 
 [LinkedIn](https://www.linkedin.com/in/williamkcastro/)
 
-### Shaurya Jain
+### Shaurya Jain (he/him)
 
 Backend Engineer
 
@@ -44,7 +44,7 @@ Backend Engineer
 
 "Give me 3 days worth of food and I'll get it done."
 
-### Logan Wang
+### Logan Wang (he/him)
 
 Frontend Engineer
 
