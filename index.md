@@ -11,11 +11,11 @@ In your newly formed group, schedule a day of the week and an episode to watch u
 ### STEP 3
 Discuss your thoughts and reactions to that week's watching! Don't worry about spoilers, we automatically block potentially risky messages.
 
-### Check out our commercial!
+### Want to see it in action? Check out our commercial!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5adIyUlV5FY" frameborder="0" allowfullscreen></iframe>
 
-### Check out our code repository [here!](https://github.com/UWSocialComputing/Vitamin-CS-Project)
+### Or even try it out yourself! Check out our code repository [here!](https://github.com/UWSocialComputing/Vitamin-CS-Project)
 
 # Meet the Team
 ### William Castro
