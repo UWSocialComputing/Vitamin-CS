@@ -32,7 +32,7 @@ Backend Engineer
 
 ![Elijah](/Vitamin-CS/images/Elijah.png)
 
-[LinkedIn](https://www.linkedin.com/in/williamkcastro/)
+[LinkedIn](https://www.linkedin.com/in/elijah-greisz/)
 
 ### Shaurya Jain (he/him)
 
@@ -40,7 +40,7 @@ Backend Engineer
 
 ![Shaurya](/Vitamin-CS/images/Shaurya.png)
 
-[LinkedIn](https://www.linkedin.com/in/williamkcastro/)
+[LinkedIn](https://www.linkedin.com/in/shaurya2109/)
 
 "Give me 3 days worth of food and I'll get it done."
 
@@ -50,4 +50,4 @@ Frontend Engineer
 
 ![Logan](/Vitamin-CS/images/Logan.png)
 
-[LinkedIn](https://www.linkedin.com/in/williamkcastro/)
+[LinkedIn](https://www.linkedin.com/in/loganshozowang/)
