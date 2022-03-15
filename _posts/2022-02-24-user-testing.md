@@ -3,22 +3,18 @@
 ### Medium-Fidelity Prototype
 The functionalities that we chose to implement by the date of our user testing were the following:
 - Chat messaging functionality of users across a connected network. This means that we had real-time message sending and receiving, complete with message timestamps, reactions, emoji support, and extensions. Importantly, this also includes the ability for one user to be in multiple groups.
-> Where to find this: In frontend/src, the bulk of our chat container is rendered in App.js using the getStream.io API. For message previews in the sidebar, this is a custom component we implemented in frontend/src/components/CustomMessageList.js.
-- Group scheduling capabilities to set next episodes to be watched, as well as the general TV show currently being watched. This means that users were able to modify the state of the group information to be able to update general group information in real-time for all users. This means changes to group name, episode scheduling and the name of the show they are currently watching would be seen by everyone in the group.
-> Where to find this: frontend/src/components/PartyHeader/PartyHeader.js is where all of the group information is rendered and updated. This is synced through Stream across all users of a group
+    - Where to find this: In frontend/src, the bulk of our chat container is rendered in App.js using the getStream.io API. For message previews in the sidebar, this is a custom component we implemented in frontend/src/components/CustomMessageList.js.
+- Group scheduling capabilities to set next episodes to be watched, as well as the general TV show currently being watched. This means that users were able to modify the state of the group information to be able to update general group information in real-time for all users. This means changes to group name, episode scheduling and the name of the show they are currently watching would be seen by everyone in the group.  
+    - Where to find this: frontend/src/components/PartyHeader/PartyHeader.js is where all of the group information is rendered and updated. This is synced through Stream across all users of a group
 
 Other functionality that is a part of our MVP was faked or omitted for now. This was the case for the login functionality, which we decided to circumvent by pre-creating the accounts that would be used but still including the general layout of the login and the create account pages. We made this last-minute decision after a bug in our login system, meaning most of the logic exists in the code (frontend and backend). We still conducted UI testing on the layout of these screens. The primary feature that we omitted was the ability to group creation, via an individual user or a matching process, as well as creating invite links to be able to join an existing group. These are currently a work in progress and are planned to be present in the final website.
 
 ### Screenshots
-![Image of Sign In Page](/Vitamin-CS/images/g6/image1.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }![Image of Create Account Page](/Vitamin-CS/images/g6/image2.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }
+![Image of Sign In Page](/Vitamin-CS/images/g6/image1.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }![Image of Create Account Page](/Vitamin-CS/images/g6/image2.jpg){: height="159px" width="299px" style="float:left; padding-right:5px" }<br>
 
+![Image of General Chat Messaging Screen](/Vitamin-CS/images/g6/image3.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }![Image of Setting Show Being Watched](/Vitamin-CS/images/g6/image4.jpg){: height="159px" width="299px" style="float:left; padding-right:5px" }<br>
 
-![Image of General Chat Messaging Screen](/Vitamin-CS/images/g6/image3.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }![Image of Setting Show Being Watched](/Vitamin-CS/images/g6/image4.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }
-
-
-![Image of Changing Watch Schedule For Group](/Vitamin-CS/images/g6/image5.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }![Image of Setting the Group Name](/Vitamin-CS/images/g6/image6.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }
-
-
+![Image of Changing Watch Schedule For Group](/Vitamin-CS/images/g6/image5.jpg){: height="159px" width="299px" style="float:left; padding-right:30px" }![Image of Setting the Group Name](/Vitamin-CS/images/g6/image6.jpg){: height="159px" width="299px" style="float:left; padding-right:5px" }<br>
 
 ### Findings from the user testing sessions
 Our user testing was separated into three main components: first, we had our users watch a video online, linked [here] (https://www.youtube.com/watch?v=tGHMBfC7z0M). The goal was to provide all of our users with a common thing to discuss, much like they would with an episode of a TV show on the platform regularly. If you watch the video, it’s the type that you’ll want to discuss. Second, we let them use the platform freely, simply informing them that they should discuss that video. During this process, we asked that they narrate their thoughts and actions. Once they felt done exploring the app and discussing the video, we asked them some questions about their overall experience. In total, we did 2 rounds of testing: the first with 3 people and the second with 2 people. The goal of the testing was to see how users might actually use the app and get their feedback on how the current design facilitates that experience.
